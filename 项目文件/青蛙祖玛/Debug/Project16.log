@@ -1,0 +1,66 @@
+﻿生成启动时间为 2021/6/18 12:12:58。
+     1>项目“C:\Users\dell\documents\visual studio 2013\Projects\Project16\Project16\Project16.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project16.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "青蛙祖玛.cpp"
+         青蛙祖玛.cpp
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(137): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(177): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(178): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(179): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(180): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(181): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(213): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(244): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(245): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(246): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(247): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(248): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(280): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(281): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(282): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(283): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(284): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(329): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(330): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(331): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(332): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(333): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(469): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(472): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(473): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(474): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(475): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(476): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(477): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(478): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(481): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(483): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(495): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(498): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(499): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(514): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(515): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(526): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(529): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(530): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(532): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(534): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(564): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(567): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(568): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(570): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(572): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(597): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(600): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(601): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(603): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\project16\project16\青蛙祖玛.cpp(605): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dell\documents\visual studio 2013\Projects\Project16\Debug\青蛙祖玛.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dell\documents\visual studio 2013\Projects\Project16\Debug\青蛙祖玛.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dell\documents\visual studio 2013\Projects\Project16\Debug\青蛙祖玛.lib" /MACHINE:X86 "Debug\青蛙祖玛.obj"
+         Project16.vcxproj -> C:\Users\dell\documents\visual studio 2013\Projects\Project16\Debug\青蛙祖玛.exe
+     1>已完成生成项目“C:\Users\dell\documents\visual studio 2013\Projects\Project16\Project16\Project16.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.93
